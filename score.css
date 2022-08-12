@@ -1,0 +1,63 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    
+}
+.box{
+
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.score {
+    border-radius: 6px;
+    background: #0a0001;
+    font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+/* text-align: center; */
+
+color: #F94F6D;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+        width: 575px;
+        /* height: px; */
+    
+        background: #1B244A;
+}
+
+button {
+    margin-bottom: 50px;
+   margin-left: 5px;
+    background: none;
+width: 45px;
+    height: 52px;
+    left: 82px;
+    top: 271px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    
+        color: #9AABD8;
+}
+h3{
+    font-family: 'Verdana';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 36px;
+        /* identical to box height, or 90% */
+    
+        text-align: center;
+    
+        color: #EEEEEE;
+}

@@ -9,6 +9,7 @@ body {
 display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(bg.jpg);
 }
 .score {
     border-radius: 6px;
